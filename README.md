@@ -1,2 +1,0 @@
-# STES
-STES Game Files
